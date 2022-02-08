@@ -1,5 +1,9 @@
 # most-used-words
 
+## Application Preview (DESKTOP)
+
+![image](https://user-images.githubusercontent.com/50564121/152910967-36497902-a0be-4434-a5da-29a8924f3890.png)
+
 ## Project setup
 ```
 yarn install
@@ -7,12 +11,12 @@ yarn install
 
 ### First: Compiles and minifies (electron:build)
 ```
-yarn build
+yarn run build
 ```
 
 ### Then Compiles and start application! (electron:serve)
 ```
-yarn serve
+yarn run serve
 ```
 
 ### Lints and fixes files

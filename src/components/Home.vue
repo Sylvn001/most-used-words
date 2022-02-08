@@ -24,7 +24,8 @@
 
 <script>
   import Pill from './Pill'
-  import { ipcRenderer } from  'electron'
+  import { ipcRenderer } from 'electron'
+
 
   export default {
       components: { Pill },
